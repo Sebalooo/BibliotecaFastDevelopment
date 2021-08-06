@@ -1,0 +1,243 @@
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/bin/Debug/netcoreapp3.1/BibliotecaFastDevelopment.deps.json
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/bin/Debug/netcoreapp3.1/BibliotecaFastDevelopment.runtimeconfig.json
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/bin/Debug/netcoreapp3.1/BibliotecaFastDevelopment.runtimeconfig.dev.json
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/bin/Debug/netcoreapp3.1/BibliotecaFastDevelopment.dll
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/bin/Debug/netcoreapp3.1/BibliotecaFastDevelopment.pdb
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/bin/Debug/netcoreapp3.1/BibliotecaFastDevelopment.Views.dll
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/bin/Debug/netcoreapp3.1/BibliotecaFastDevelopment.Views.pdb
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/obj/Debug/netcoreapp3.1/BibliotecaFastDevelopment.csproj.AssemblyReference.cache
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/obj/Debug/netcoreapp3.1/BibliotecaFastDevelopment.AssemblyInfoInputs.cache
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/obj/Debug/netcoreapp3.1/BibliotecaFastDevelopment.AssemblyInfo.cs
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/obj/Debug/netcoreapp3.1/BibliotecaFastDevelopment.csproj.CoreCompileInputs.cache
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/obj/Debug/netcoreapp3.1/BibliotecaFastDevelopment.MvcApplicationPartsAssemblyInfo.cache
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/obj/Debug/netcoreapp3.1/BibliotecaFastDevelopment.RazorAssemblyInfo.cache
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/obj/Debug/netcoreapp3.1/BibliotecaFastDevelopment.RazorAssemblyInfo.cs
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/obj/Debug/netcoreapp3.1/staticwebassets/BibliotecaFastDevelopment.StaticWebAssets.Manifest.cache
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/obj/Debug/netcoreapp3.1/staticwebassets/BibliotecaFastDevelopment.StaticWebAssets.xml
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/obj/Debug/netcoreapp3.1/scopedcss/bundle/BibliotecaFastDevelopment.styles.css
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/obj/Debug/netcoreapp3.1/BibliotecaFastDevelopment.TagHelpers.input.cache
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/obj/Debug/netcoreapp3.1/BibliotecaFastDevelopment.TagHelpers.output.cache
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/obj/Debug/netcoreapp3.1/BibliotecaFastDevelopment.RazorCoreGenerate.cache
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/obj/Debug/netcoreapp3.1/BibliotecaFastDevelopment.RazorTargetAssemblyInfo.cache
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/obj/Debug/netcoreapp3.1/BibliotecaFastDevelopment.RazorTargetAssemblyInfo.cs
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/obj/Debug/netcoreapp3.1/BibliotecaFastDevelopment.Views.pdb
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/obj/Debug/netcoreapp3.1/BibliotecaFastDevelopment.dll
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/obj/Debug/netcoreapp3.1/BibliotecaFastDevelopment.pdb
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/obj/Debug/netcoreapp3.1/BibliotecaFastDevelopment.genruntimeconfig.cache
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/obj/Debug/netcoreapp3.1/BibliotecaFastDevelopment.csproj.CopyComplete
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/bin/Debug/netcoreapp3.1/BouncyCastle.Crypto.dll
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/bin/Debug/netcoreapp3.1/Google.Protobuf.dll
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/bin/Debug/netcoreapp3.1/K4os.Compression.LZ4.dll
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/bin/Debug/netcoreapp3.1/K4os.Compression.LZ4.Streams.dll
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/bin/Debug/netcoreapp3.1/K4os.Hash.xxHash.dll
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/bin/Debug/netcoreapp3.1/MySql.Data.dll
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/bin/Debug/netcoreapp3.1/Ubiety.Dns.Core.dll
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/bin/Debug/netcoreapp3.1/Zstandard.Net.dll
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/obj/Debug/netcoreapp3.1/Razor/Views/ArriendoLibros/BorrarArriendo.cshtml.g.cs
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/obj/Debug/netcoreapp3.1/Razor/Views/ArriendoLibros/CrearArriendo.cshtml.g.cs
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/obj/Debug/netcoreapp3.1/Razor/Views/ArriendoLibros/EditarArriendo.cshtml.g.cs
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/obj/Debug/netcoreapp3.1/Razor/Views/Autores/BorrarAutores.cshtml.g.cs
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/obj/Debug/netcoreapp3.1/Razor/Views/Autores/CrearAutores.cshtml.g.cs
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/obj/Debug/netcoreapp3.1/Razor/Views/Autores/EditarAutores.cshtml.g.cs
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/obj/Debug/netcoreapp3.1/Razor/Views/Autores/MostrarAutor.cshtml.g.cs
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/obj/Debug/netcoreapp3.1/Razor/Views/Clientes/BorrarCliente.cshtml.g.cs
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/obj/Debug/netcoreapp3.1/Razor/Views/Clientes/CrearCliente.cshtml.g.cs
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/obj/Debug/netcoreapp3.1/Razor/Views/Clientes/EditarCliente.cshtml.g.cs
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/obj/Debug/netcoreapp3.1/Razor/Views/Clientes/MostrarCliente.cshtml.g.cs
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/obj/Debug/netcoreapp3.1/Razor/Views/Inventario/MostrarArriendo.cshtml.g.cs
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/obj/Debug/netcoreapp3.1/Razor/Views/Inventario/MostrarAutores.cshtml.g.cs
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/obj/Debug/netcoreapp3.1/Razor/Views/Inventario/MostrarVentas.cshtml.g.cs
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/obj/Debug/netcoreapp3.1/Razor/Views/Libros/CrearLibro.cshtml.g.cs
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/obj/Debug/netcoreapp3.1/Razor/Views/Libros/EditarLibro.cshtml.g.cs
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/obj/Debug/netcoreapp3.1/Razor/Views/Libros/MostrarLibro.cshtml.g.cs
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/obj/Debug/netcoreapp3.1/Razor/Views/Trabajador/BorrarTrabajador.cshtml.g.cs
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/obj/Debug/netcoreapp3.1/Razor/Views/Trabajador/CrearTrabajador.cshtml.g.cs
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/obj/Debug/netcoreapp3.1/Razor/Views/Trabajador/EditarTrabajador.cshtml.g.cs
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/obj/Debug/netcoreapp3.1/Razor/Views/Trabajador/MostrarTrabajador.cshtml.g.cs
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/obj/Debug/netcoreapp3.1/Razor/Views/VentaLibros/BorrarVenta.cshtml.g.cs
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/obj/Debug/netcoreapp3.1/Razor/Views/VentaLibros/CrearVenta.cshtml.g.cs
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/obj/Debug/netcoreapp3.1/Razor/Views/VentaLibros/EditarVenta.cshtml.g.cs
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/obj/Debug/netcoreapp3.1/Razor/Views/CompraLibros/ComprarLibros.cshtml.g.cs
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/obj/Debug/netcoreapp3.1/Razor/Views/CompraLibros/MostrarCompras.cshtml.g.cs
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/obj/Debug/netcoreapp3.1/Razor/Views/Editoriales/CrearEditorial.cshtml.g.cs
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/bin/Debug/netcoreapp3.1/Azure.Core.dll
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/bin/Debug/netcoreapp3.1/Azure.Identity.dll
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/bin/Debug/netcoreapp3.1/System.ComponentModel.Annotations.dll
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/bin/Debug/netcoreapp3.1/System.Text.Encodings.Web.dll
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/obj/Debug/netcoreapp3.1/Razor/Views/ArriendoLibros/MostrarArriendos.cshtml.g.cs
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/obj/Debug/netcoreapp3.1/Razor/Views/Boletas/CrearBoletas.cshtml.g.cs
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/obj/Debug/netcoreapp3.1/Razor/Views/Boletas/MostrarBoleta.cshtml.g.cs
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/obj/Debug/netcoreapp3.1/Razor/Views/Catergoria/CrearCategoria.cshtml.g.cs
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/obj/Debug/netcoreapp3.1/Razor/Views/Catergoria/EditarCategoria.cshtml.g.cs
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/obj/Debug/netcoreapp3.1/Razor/Views/Catergoria/MostarCategoria.cshtml.g.cs
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/obj/Debug/netcoreapp3.1/Razor/Views/Distribuidor/BorrarDistribuidor.cshtml.g.cs
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/obj/Debug/netcoreapp3.1/Razor/Views/Distribuidor/CrearDistribuidor.cshtml.g.cs
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/obj/Debug/netcoreapp3.1/Razor/Views/Distribuidor/EditarDistribuidor.cshtml.g.cs
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/obj/Debug/netcoreapp3.1/Razor/Views/Distribuidor/MostrarDistribuidor.cshtml.g.cs
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/obj/Debug/netcoreapp3.1/Razor/Views/Libros/Index.cshtml.g.cs
+/Users/milenmeza/Projects/BibliotecaFastDevelopment/BibliotecaFastDevelopment/obj/Debug/netcoreapp3.1/Razor/Views/MetodoPago/CrearMetodoPago.cshtml.g.cs
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\bin\Debug\netcoreapp3.1\BibliotecaFastDevelopment.exe
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\bin\Debug\netcoreapp3.1\BibliotecaFastDevelopment.deps.json
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\bin\Debug\netcoreapp3.1\BibliotecaFastDevelopment.runtimeconfig.json
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\bin\Debug\netcoreapp3.1\BibliotecaFastDevelopment.runtimeconfig.dev.json
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\bin\Debug\netcoreapp3.1\BibliotecaFastDevelopment.dll
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\bin\Debug\netcoreapp3.1\BibliotecaFastDevelopment.pdb
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\bin\Debug\netcoreapp3.1\BibliotecaFastDevelopment.Views.dll
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\bin\Debug\netcoreapp3.1\BibliotecaFastDevelopment.Views.pdb
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\obj\Debug\netcoreapp3.1\BibliotecaFastDevelopment.csprojAssemblyReference.cache
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\obj\Debug\netcoreapp3.1\BibliotecaFastDevelopment.AssemblyInfoInputs.cache
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\obj\Debug\netcoreapp3.1\BibliotecaFastDevelopment.AssemblyInfo.cs
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\obj\Debug\netcoreapp3.1\BibliotecaFastDevelopment.csproj.CoreCompileInputs.cache
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\obj\Debug\netcoreapp3.1\BibliotecaFastDevelopment.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\obj\Debug\netcoreapp3.1\BibliotecaFastDevelopment.RazorAssemblyInfo.cache
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\obj\Debug\netcoreapp3.1\BibliotecaFastDevelopment.RazorAssemblyInfo.cs
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\obj\Debug\netcoreapp3.1\staticwebassets\BibliotecaFastDevelopment.StaticWebAssets.Manifest.cache
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\obj\Debug\netcoreapp3.1\staticwebassets\BibliotecaFastDevelopment.StaticWebAssets.xml
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\obj\Debug\netcoreapp3.1\scopedcss\bundle\BibliotecaFastDevelopment.styles.css
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\obj\Debug\netcoreapp3.1\BibliotecaFastDevelopment.TagHelpers.input.cache
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\obj\Debug\netcoreapp3.1\BibliotecaFastDevelopment.TagHelpers.output.cache
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\obj\Debug\netcoreapp3.1\BibliotecaFastDevelopment.RazorCoreGenerate.cache
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\obj\Debug\netcoreapp3.1\Razor\Views\ArriendoLibros\BorrarArriendo.cshtml.g.cs
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\obj\Debug\netcoreapp3.1\Razor\Views\ArriendoLibros\CrearArriendo.cshtml.g.cs
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\obj\Debug\netcoreapp3.1\Razor\Views\ArriendoLibros\EditarArriendo.cshtml.g.cs
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\obj\Debug\netcoreapp3.1\Razor\Views\ArriendoLibros\MostrarArriendos.cshtml.g.cs
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\obj\Debug\netcoreapp3.1\Razor\Views\Autores\BorrarAutores.cshtml.g.cs
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\obj\Debug\netcoreapp3.1\Razor\Views\Autores\CrearAutores.cshtml.g.cs
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\obj\Debug\netcoreapp3.1\Razor\Views\Autores\EditarAutores.cshtml.g.cs
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\obj\Debug\netcoreapp3.1\Razor\Views\Autores\MostrarAutor.cshtml.g.cs
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\obj\Debug\netcoreapp3.1\Razor\Views\Boletas\CrearBoletas.cshtml.g.cs
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\obj\Debug\netcoreapp3.1\Razor\Views\Boletas\MostrarBoleta.cshtml.g.cs
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\obj\Debug\netcoreapp3.1\Razor\Views\Catergoria\CrearCategoria.cshtml.g.cs
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\obj\Debug\netcoreapp3.1\Razor\Views\Catergoria\EditarCategoria.cshtml.g.cs
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\obj\Debug\netcoreapp3.1\Razor\Views\Catergoria\MostarCategoria.cshtml.g.cs
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\obj\Debug\netcoreapp3.1\Razor\Views\Clientes\BorrarCliente.cshtml.g.cs
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\obj\Debug\netcoreapp3.1\Razor\Views\Clientes\CrearCliente.cshtml.g.cs
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\obj\Debug\netcoreapp3.1\Razor\Views\Clientes\EditarCliente.cshtml.g.cs
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\obj\Debug\netcoreapp3.1\Razor\Views\Clientes\MostrarCliente.cshtml.g.cs
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\obj\Debug\netcoreapp3.1\Razor\Views\CompraLibros\ComprarLibros.cshtml.g.cs
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\obj\Debug\netcoreapp3.1\Razor\Views\CompraLibros\MostrarCompras.cshtml.g.cs
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\obj\Debug\netcoreapp3.1\Razor\Views\Distribuidor\BorrarDistribuidor.cshtml.g.cs
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\obj\Debug\netcoreapp3.1\Razor\Views\Distribuidor\CrearDistribuidor.cshtml.g.cs
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\obj\Debug\netcoreapp3.1\Razor\Views\Distribuidor\EditarDistribuidor.cshtml.g.cs
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\obj\Debug\netcoreapp3.1\Razor\Views\Distribuidor\MostrarDistribuidor.cshtml.g.cs
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\obj\Debug\netcoreapp3.1\Razor\Views\Editoriales\CrearEditorial.cshtml.g.cs
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\obj\Debug\netcoreapp3.1\Razor\Views\Inventario\MostrarArriendo.cshtml.g.cs
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\obj\Debug\netcoreapp3.1\Razor\Views\Inventario\MostrarAutores.cshtml.g.cs
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\obj\Debug\netcoreapp3.1\Razor\Views\Inventario\MostrarVentas.cshtml.g.cs
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\obj\Debug\netcoreapp3.1\Razor\Views\Libros\CrearLibro.cshtml.g.cs
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\obj\Debug\netcoreapp3.1\Razor\Views\Libros\EditarLibro.cshtml.g.cs
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\obj\Debug\netcoreapp3.1\Razor\Views\Libros\Index.cshtml.g.cs
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\obj\Debug\netcoreapp3.1\Razor\Views\Libros\MostrarLibro.cshtml.g.cs
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\obj\Debug\netcoreapp3.1\Razor\Views\MetodoPago\CrearMetodoPago.cshtml.g.cs
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\obj\Debug\netcoreapp3.1\Razor\Views\Trabajador\BorrarTrabajador.cshtml.g.cs
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\obj\Debug\netcoreapp3.1\Razor\Views\Trabajador\CrearTrabajador.cshtml.g.cs
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\obj\Debug\netcoreapp3.1\Razor\Views\Trabajador\EditarTrabajador.cshtml.g.cs
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\obj\Debug\netcoreapp3.1\Razor\Views\Trabajador\MostrarTrabajador.cshtml.g.cs
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\obj\Debug\netcoreapp3.1\Razor\Views\VentaLibros\BorrarVenta.cshtml.g.cs
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\obj\Debug\netcoreapp3.1\Razor\Views\VentaLibros\CrearVenta.cshtml.g.cs
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\obj\Debug\netcoreapp3.1\Razor\Views\VentaLibros\EditarVenta.cshtml.g.cs
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\obj\Debug\netcoreapp3.1\BibliotecaFastDevelopment.RazorTargetAssemblyInfo.cache
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\obj\Debug\netcoreapp3.1\BibliotecaFastDevelopment.RazorTargetAssemblyInfo.cs
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\obj\Debug\netcoreapp3.1\BibliotecaFastDevelopment.Views.pdb
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\obj\Debug\netcoreapp3.1\BibliotecaFastDevelopment.csproj.CopyComplete
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\obj\Debug\netcoreapp3.1\BibliotecaFastDevelopment.dll
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\obj\Debug\netcoreapp3.1\BibliotecaFastDevelopment.pdb
+C:\Users\Equipos Médicos\Downloads\BibliotecaFastDevelopment (2)\BibliotecaFastDevelopment\BibliotecaFastDevelopment\obj\Debug\netcoreapp3.1\BibliotecaFastDevelopment.genruntimeconfig.cache

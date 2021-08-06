@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/milenmeza/.dotnet/store/|arch|/|tfm|",
+      "/Users/milenmeza/.nuget/packages"
+    ]
+  }
+}

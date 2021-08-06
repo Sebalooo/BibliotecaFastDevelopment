@@ -1,0 +1,58 @@
+﻿@page
+@{
+}
+
+<h1>
+
+    Administrar Libros
+
+</h1>
+
+
+<h3>Ingresar Libro</h3>
+
+<form asp-controller="Libros" asp-action="CrearLibro" method="post">
+
+    <div class="col">
+        <label>ISBN</label>
+        <input type="text" class="form-control" id="ISBN" name="ISBN">
+
+    </div>
+
+    <div class="col">
+        <label>CODIGO EDITORIAL</label>
+        <input type="text" class="form-control" id="cod_editorial" name="cod_editorial">
+
+    </div>
+
+    <div class="col">
+
+        <label>TITULO</label>
+        <input type="text" class="form-control" id="titulo" name="titulo">
+
+    </div>
+
+    <div class="col">
+        <label>NUMERO DE PAGINAS</label>
+        <input type="text" class="form-control" id="nro_paginas" name="nro_paginas">
+    </div>
+    <div class="col">
+        <label>Año De Edición</label>
+        <input type="text" class="form-control" id="a_edicion" name="a_edicion">
+    </div>
+
+    <div class="col">
+        <label>Cantida De Libros</label>
+        <input type="text" class="form-control" id="cantidad_libros" name="cantidad_libros">
+    </div>
+
+    <div class="btn-group">
+        <div class="col">
+            <button type="button" class="btn btn-block bg-gradient-danger btn-sm">Borrar</button>
+        </div> &nbsp;&nbsp;&nbsp;&nbsp; <div class="col"> <button type="submit" class="btn btn-block bg-gradient-success btn-sm">Er</button></div>
+    </div>
+
+</form>
+
+
+

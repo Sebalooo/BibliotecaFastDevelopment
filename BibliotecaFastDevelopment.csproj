@@ -1,0 +1,35 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Remove="Views\Trabajador\" />
+    <None Remove="MySql.Data" />
+    <None Remove="Views\CompraLibros\" />
+    <None Remove="Views\Distribuidor\" />
+    <None Remove="Views\MetodoPago\" />
+    <None Remove="Views\Facturacion\" />
+    <None Remove="Views\Editoriales\" />
+    <None Remove="Views\Catergoria\" />
+    <None Remove="Newtonsoft.Json" />
+    <None Remove="SweetAlert.Bootstrap" />
+    <None Remove="SweetAlert" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Views\Trabajador\" />
+    <Folder Include="Views\CompraLibros\" />
+    <Folder Include="Views\Distribuidor\" />
+    <Folder Include="Views\MetodoPago\" />
+    <Folder Include="Views\Boletas\" />
+    <Folder Include="Views\Editoriales\" />
+    <Folder Include="Views\Catergoria\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="MySql.Data" Version="8.0.26" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="5.0.8" />
+    <PackageReference Include="Microsoft.Data.SqlClient" Version="3.0.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+    <PackageReference Include="SweetAlert.Bootstrap" Version="1.0.1" />
+    <PackageReference Include="SweetAlert" Version="1.0.0" />
+  </ItemGroup>
+</Project>

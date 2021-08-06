@@ -1,0 +1,34 @@
+﻿@model List<Clientes>
+
+@{ }
+
+
+<h3>Listado de Libros </h3>
+<table class="table table-bordered">
+
+    <thead>
+        <tr>
+            <th>Nombres</th>
+            <th>Apelliedo Paterno</th>
+            <th>Apellido Materno</th>
+            <th>Fecha de Nacimiento</th>
+            <th>Rut</th>
+        </tr>
+    </thead>
+    <tbody>
+
+
+
+        @foreach (var Clientes in Model)
+        {
+<tr>
+    <th>@Clientes.nombres</th>
+    <th>@Clientes.ap_paterno</th>
+    <th>@Clientes.ap_materno </th>
+    <th>@Clientes.fecha_nac</th>
+    <th>@Clientes.rut_cliente</th>
+</tr>            }
+        }
+
+    </tbody>
+</table>

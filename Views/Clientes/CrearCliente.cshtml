@@ -1,0 +1,116 @@
+﻿@page
+@{
+
+
+}
+<!-- Google Font: Source Sans Pro -->
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700&display=fallback">
+<!-- Font Awesome -->
+<link rel="stylesheet" href="~/AdminLTE/plugins/fontawesome-free/css/all.min.css">
+<!-- Theme style -->
+<link rel="stylesheet" href="~/AdminLTE/dist/css/adminlte.min.css">
+<link rel="stylesheet" href="~/AdminLTE/plugins/datatables-bs4/css/dataTables.bootstrap4.min.css">
+<link rel="stylesheet" href="~/AdminLTE/plugins/datatables-responsive/css/responsive.bootstrap4.min.css">
+<link rel="stylesheet" href="~/AdminLTE/plugins/datatables-buttons/css/buttons.bootstrap4.min.css">
+
+
+<script src="~/AdminLTE/plugins/jquery/jquery.min.js"></script>
+<!-- Bootstrap 4 -->
+<script src="~/AdminLTE/plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
+<!-- AdminLTE App -->
+<script src="~/AdminLTE/dist/js/adminlte.min.js"></script>
+<!-- AdminLTE for demo purposes -->
+<script src="~/AdminLTE/dist/js/demo.js"></script>
+
+
+<div class="content-wrapper">
+
+    <h1>
+
+        Administrar Clientes
+
+    </h1>
+
+
+
+    <h3>Ingresar Cliente</h3>
+
+
+    <form asp-controller="Clientes" asp-action="CrearCliente" method="post">
+
+
+
+
+
+
+        <div class="col">
+            <label>RUT CLIENTE </label>
+            <input type="text" class="form-control" id="rut_cliente" name="rut_cliente">
+
+        </div>
+
+        <div class="col">
+            <label>DV CLIENTE</label>
+            <input type="text" class="form-control" id="dv_cliente" name="dv_cliente">
+
+        </div>
+
+        <div class="col">
+
+            <label>NOMBRES </label>
+            <input type="text" class="form-control" id="nombres" name="nombres">
+
+        </div>
+
+        <div class="col">
+            <label>APELLIDO PATERNO</label>
+            <input type="text" class="form-control" id="ap_paterno" name="ap_paterno">
+        </div>
+        <div class="col">
+            <label>APELLIDO MATERNO</label>
+            <input type="text" class="form-control" id="ap_materno" name="ap_materno">
+        </div>
+
+        <div class="col">
+            <label>FECHA DE NACIMIENTO</label>
+            <input type="text" class="form-control" id="fecha_nac" name="fecha_nac">
+        </div>
+        <div class="col">
+            <label>INGRESE CORREO</label>
+            <input type="text" class="form-control" id="cod_correo" name="cod_correo">
+        </div>
+        <div class="col">
+            <label>INGRESE DIRECCION</label>
+            <input type="text" class="form-control" id="cod_direccion" name="cod_direccion">
+        </div>
+        <div class="col">
+            <label>INGRESE TELEFONO</label>
+            <input type="text" class="form-control" id="cod_telefono" name="cod_telefono">
+        </div>
+
+        <div class="btn-group">
+            <div class="col">
+                <button type="button" class="btn btn-block bg-gradient-danger btn-sm">Borrar</button>
+            </div> &nbsp;&nbsp;&nbsp;&nbsp; <div class="col"> <button type="submit" class="btn btn-block bg-gradient-success btn-sm">Crear</button></div>
+        </div>
+
+    </form>
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+

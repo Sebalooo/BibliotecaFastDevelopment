@@ -1,0 +1,43 @@
+﻿@model List<Libros>
+
+@{ 
+
+
+
+<h3>Listado de Libros </h3>
+<table class="table table-bordered">
+
+    <thead>
+        <tr>
+            <th>ISBN</th>
+            <th>Titulo</th>
+            <th>Numero de Paginas</th>
+            <th>Año de Edicion </th>
+            <th>Cod_Editorial</th>
+            <th>Cantidad de Libros</th>
+            <th>Editorial Nombre</th>
+        </tr>
+    </thead>
+    <tbody>
+
+        
+
+        @foreach (var libross in Model)
+        { 
+        <tr>
+            <th>@libross.ISBN</th>
+            <th>@libross.Titulo</th>
+            <th>@libross.Nro_paginas</th>
+            <th>@libross.A_edicion</th>
+            <th>@libross.EditorialID</th>
+            <th>@libross.Cantidad_libros</th>
+            <th>@libross.EditorialName</th>>
+        </tr>
+
+
+            }
+        }
+
+    </tbody>
+</table>
+

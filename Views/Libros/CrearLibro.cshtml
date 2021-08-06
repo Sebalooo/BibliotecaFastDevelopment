@@ -1,0 +1,103 @@
+﻿@model List<Libros>
+
+@{
+   
+}
+
+<!-- Google Font: Source Sans Pro -->
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700&display=fallback">
+<!-- Font Awesome -->
+<link rel="stylesheet" href="~/AdminLTE/plugins/fontawesome-free/css/all.min.css">
+<!-- Theme style -->
+<link rel="stylesheet" href="~/AdminLTE/dist/css/adminlte.min.css">
+<link rel="stylesheet" href="~/AdminLTE/plugins/datatables-bs4/css/dataTables.bootstrap4.min.css">
+<link rel="stylesheet" href="~/AdminLTE/plugins/datatables-responsive/css/responsive.bootstrap4.min.css">
+<link rel="stylesheet" href="~/AdminLTE/plugins/datatables-buttons/css/buttons.bootstrap4.min.css">
+
+<div class="content-wrapper">
+    <h1>
+
+        Administrar Libros
+
+    </h1>
+
+
+
+
+    <div class="row">
+        <div classs="col-md-8">
+        </div>
+
+        <div classs="col-md-4">
+            <label for="Editorales">Editoriales</label>
+            <select name="Editorales" id="Editoriales">
+                @if (ViewBag.ListadoEditorial != null)
+                {
+                    @foreach (var e in ViewBag.ListadoEditorial)
+                    {
+                        <option value="@e.Editorial_id">@e.Editorial</option>
+                    }
+
+                }
+
+            </select>
+
+        </div>
+    </div>
+
+    <h3>Ingresar Libro</h3>
+
+    <form asp-controller="Libros" asp-action="CrearLibro" method="post">
+
+        <div class="col">
+            <label for="ISBN">ISBN</label>
+            <input type="text" class="form-control" id="ISBN" name="ISBN">
+
+        </div>
+
+
+
+        <div class="col">
+
+            <label for="titulo">TITULO</label>
+            <input type="text" class="form-control" id="titulo" name="titulo">
+
+        </div>
+
+        <div class="col">
+            <label for="nro_paginas">NUMERO DE PAGINAS</label>
+            <input type="text" class="form-control" id="nro_paginas" name="nro_paginas">
+        </div>
+        <div class="col">
+            <label for="ano_edicion">AÑO DE EDICIÓN</label>
+            <input type="text" class="form-control" id="ano_edicion" name="ano_edicion">
+        </div>
+
+        <div class="col">
+            <label for="cantidad_libros">CANTIDAD DE LIBROS</label>
+            <input type="text" class="form-control" id="cantidad_libros" name="cantidad_libros">
+        </div>
+
+
+        <div class="btn-group">
+            <div class="col">
+                <button type="button" class="btn btn-block bg-gradient-danger btn-sm">Borrar</button>
+            </div> &nbsp;&nbsp;&nbsp;&nbsp; <div class="col"> <button type="submit" class="btn btn-block bg-gradient-success btn-sm">Crear</button></div>
+        </div>
+
+    </form>
+
+</div>
+
+
+
+    <script src="~/AdminLTE/plugins/jquery/jquery.min.js"></script>
+    <!-- Bootstrap 4 -->
+    <script src="~/AdminLTE/plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <!-- AdminLTE App -->
+    <script src="~/AdminLTE/dist/js/adminlte.min.js"></script>
+    <!-- AdminLTE for demo purposes -->
+    <script src="~/AdminLTE/dist/js/demo.js"></script>
+
+
+
